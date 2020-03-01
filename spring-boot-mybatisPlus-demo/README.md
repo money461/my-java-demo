@@ -1,4 +1,4 @@
-# spring-boot-mp-demo
+# spring-boot-mybatisPlus-demo
 
 #### 项目介绍
 SpringBoot整合MyBatis-Plus3.1示例
